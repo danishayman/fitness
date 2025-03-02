@@ -1,0 +1,2 @@
+C:/Users/danis/OneDrive/Documents/Projects/fitness/android/app/.cxx/Debug/5r1k5m24/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/danis/OneDrive/Documents/Projects/fitness/android/app/.cxx/Debug/5r1k5m24/x86_64/CMakeFiles/rebuild_cache.dir
